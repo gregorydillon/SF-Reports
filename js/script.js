@@ -6,7 +6,8 @@ $(document).ready(function () {
         zoomControl: false,
         scrollWheelZoom: false
     })
-	.setView([40.705008, -73.995581], 15);
+   .setView([37.760693, -122.418475], 15);
+
 
     var markers = new L.FeatureGroup();
 
