@@ -22,3 +22,8 @@ The SF311 endpoint  (but I want to make this easily variable)
 
 
 Stopping development on this project.   Gonna look at the icon thing.
+
+This is a good example, but its not that close to what i want to be doing.  
+So my time is going to be spent elsewhere.
+
+
