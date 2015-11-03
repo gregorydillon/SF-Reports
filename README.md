@@ -7,6 +7,10 @@ obvouisly have to change.
 How many:  
 ??
 
+---
+
+November 3, 2015,  I see this was a partially completed project.   One part that is nice, is the Stamen Watercolor tiles.   But much of it was never refactored from NYC to SF
+
 <!---->
 concern -  Figure out the Icon thing
 
